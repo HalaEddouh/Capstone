@@ -52,7 +52,12 @@ Flow Navigation:
 
 
 Wireframes
-[Add picture of your hand sketched wireframes in this section] 
+
+
+<img width="536" alt="Screenshot 2024-04-15 at 2 27 08 PM" src="https://github.com/HalaEddouh/Capstone/assets/124421401/d647a177-ed46-4ffd-926d-9109c64bd8ff">
+
+
+
 
 Schema
 [This section will be completed in Unit 9]
