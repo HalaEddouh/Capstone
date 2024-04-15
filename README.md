@@ -50,13 +50,16 @@ Flow Navigation:
 -Tutorials
   -> Tutorial link
 
-
 Wireframes
 
 
 <img width="536" alt="Screenshot 2024-04-15 at 2 27 08 PM" src="https://github.com/HalaEddouh/Capstone/assets/124421401/d647a177-ed46-4ffd-926d-9109c64bd8ff">
 
 
+
+
+Sprint video
+https://imgur.com/gallery/a4YLssn
 
 
 Schema
