@@ -61,7 +61,7 @@ Wireframes
 Checkpoint 1:
 https://imgur.com/gallery/a4YLssn
 
-So far i've completed the app evaluation which includes the navigation, screen archetypes and many more things. I've started my app and included a demo of it, which is linked above.
+So far i've completed the app evaluation which includes the navigation, screen archetypes and many more things. I've started my app and included a demo of it, which is linked above. So far my app has a search button and drop down for the providers.
 
 
 Schema
