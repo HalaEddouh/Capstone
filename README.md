@@ -19,9 +19,9 @@ Product Specs:
 
 
 Required Must-have:
--Input button
--Phone call button
--Links
+[x] Input button
+[] Phone call button
+[] Links
 
 Optional Nice-to-have:
 -Share button
@@ -58,8 +58,10 @@ Wireframes
 
 
 
-Sprint video
+Checkpoint 1:
 https://imgur.com/gallery/a4YLssn
+
+So far i've completed the app evaluation which includes the navigation, screen archetypes and many more things. I've started my app and included a demo of it, which is linked above.
 
 
 Schema
