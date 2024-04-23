@@ -64,15 +64,42 @@ https://imgur.com/gallery/a4YLssn
 So far i've completed the app evaluation which includes the navigation, screen archetypes and many more things. I've started my app and included a demo of it, which is linked above. So far my app has a search button and drop down for the providers.
 
 
+Checkpoint 2:
+https://imgur.com/gallery/KF9dNFa
+
+Ranin to many errors and am still having to learn some things to add to my application. Still in progress...
+
+
 Schema
 [This section will be completed in Unit 9]
 
 Models
-[Add table of models]
+
+struct Video {
+    let id: String
+    let title: String
+    let channelTitle: String
+    let thumbnailURL: String
+    var thumbnailImage: UIImage? // UIImage for thumbnail image, it could be optional if you download it later
+}
 
 Networking
 [Add list of network requests by screen ]
 [Create basic snippets for each Parse network request]
 [OPTIONAL: List endpoints if using existing API such as Yelp]
-  
 
+Search Screen:
+Request: Search YouTube videos based on user query.
+Parameters:
+q: Query string
+part: Specifies the video resource parts that the API response will include.
+type: Specifies the type of search resource to retrieve.
+
+Video Selection Screen:
+Request: Retrieve details of a specific YouTube video.
+Parameters: id: The ID of the video.
+
+Video Detail Screen:
+Request: Retrieve video of a selected YouTube video.
+Parameters: id: The ID of the selected video.
+part: Specifies the video resource parts that the API response will include (e.g., snippet, statistics).
