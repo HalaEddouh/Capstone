@@ -65,7 +65,7 @@ So far i've completed the app evaluation which includes the navigation, screen a
 
 
 Checkpoint 2:
-https://imgur.com/gallery/KF9dNFa
+https://imgur.com/gallery/cV6rgcF
 
 Ranin to many errors and am still having to learn some things to add to my application. Still in progress...
 
