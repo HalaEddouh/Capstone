@@ -67,7 +67,12 @@ So far i've completed the app evaluation which includes the navigation, screen a
 Checkpoint 2:
 https://imgur.com/gallery/cV6rgcF
 
-Ranin to many errors and am still having to learn some things to add to my application. Still in progress...
+Ran in to many errors and am still having to learn some things to add to my application. Still in progress...
+
+Checkpoint 3:
+https://imgur.com/gallery/KwLpBCS
+
+FInal project. Still many things to improve on.
 
 
 Schema
